@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "0cedf37d-5894-4984-9de2-df9f380c9010",
+      "name": "Insera maastopyörä XM99",
+      "price": 2999
+    },
+    {
+      "id": "0ae93bd9-fa85-40f8-ab66-80f5167192aa",
+      "name": "Insera kilpapyörä KM441",
+      "price": 599
+    },
+    {
+      "id": "edb80fa0-438c-4155-9ca2-39d7567a8cf7",
+      "name": "Crescent kilpapyörä GG211",
+      "price": 1099
+    }
+  ]
+}
